@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HUGjQng+B8o=",
+  "success": true,
+  "projectFilePath": "H:\\PROJETOS\\Controle de Envase\\ControleEnvase\\ControleEnvase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOAO\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.16\\microsoft.net.illink.tasks.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

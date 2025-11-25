@@ -1,0 +1,34 @@
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\bin\Release\net8.0-windows\win-x64\ControleEnvase.exe
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\bin\Release\net8.0-windows\win-x64\ControleEnvase.deps.json
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\bin\Release\net8.0-windows\win-x64\ControleEnvase.runtimeconfig.json
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\bin\Release\net8.0-windows\win-x64\ControleEnvase.dll
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\bin\Release\net8.0-windows\win-x64\ControleEnvase.pdb
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.Frm_ControleEnvase.resources
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.Properties.Resources.resources
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.csproj.GenerateResource.cache
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.GeneratedMSBuildEditorConfig.editorconfig
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.AssemblyInfoInputs.cache
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.AssemblyInfo.cs
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.csproj.CoreCompileInputs.cache
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.dll
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\refint\ControleEnvase.dll
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.pdb
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.genruntimeconfig.cache
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ref\ControleEnvase.dll
+H:\PROJETOS\Controle de Envase\ControleEnvase\bin\Release\net8.0-windows\win-x64\ControleEnvase.exe
+H:\PROJETOS\Controle de Envase\ControleEnvase\bin\Release\net8.0-windows\win-x64\ControleEnvase.deps.json
+H:\PROJETOS\Controle de Envase\ControleEnvase\bin\Release\net8.0-windows\win-x64\ControleEnvase.runtimeconfig.json
+H:\PROJETOS\Controle de Envase\ControleEnvase\bin\Release\net8.0-windows\win-x64\ControleEnvase.dll
+H:\PROJETOS\Controle de Envase\ControleEnvase\bin\Release\net8.0-windows\win-x64\ControleEnvase.pdb
+H:\PROJETOS\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.Frm_ControleEnvase.resources
+H:\PROJETOS\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.Properties.Resources.resources
+H:\PROJETOS\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.csproj.GenerateResource.cache
+H:\PROJETOS\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.GeneratedMSBuildEditorConfig.editorconfig
+H:\PROJETOS\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.AssemblyInfoInputs.cache
+H:\PROJETOS\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.AssemblyInfo.cs
+H:\PROJETOS\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.csproj.CoreCompileInputs.cache
+H:\PROJETOS\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.dll
+H:\PROJETOS\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\refint\ControleEnvase.dll
+H:\PROJETOS\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.pdb
+H:\PROJETOS\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ControleEnvase.genruntimeconfig.cache
+H:\PROJETOS\Controle de Envase\ControleEnvase\obj\Release\net8.0-windows\win-x64\ref\ControleEnvase.dll

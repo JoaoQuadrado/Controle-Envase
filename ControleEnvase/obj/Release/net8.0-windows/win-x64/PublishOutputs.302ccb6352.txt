@@ -1,0 +1,2 @@
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase.pdb
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase.exe

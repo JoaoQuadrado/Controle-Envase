@@ -1,0 +1,33 @@
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\bin\Debug\net8.0-windows\ControleEnvase.exe
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\bin\Debug\net8.0-windows\ControleEnvase.deps.json
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\bin\Debug\net8.0-windows\ControleEnvase.runtimeconfig.json
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\bin\Debug\net8.0-windows\ControleEnvase.dll
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\bin\Debug\net8.0-windows\ControleEnvase.pdb
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.Frm_ControleEnvase.resources
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.csproj.GenerateResource.cache
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.GeneratedMSBuildEditorConfig.editorconfig
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.AssemblyInfoInputs.cache
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.AssemblyInfo.cs
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.csproj.CoreCompileInputs.cache
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.dll
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\obj\Debug\net8.0-windows\refint\ControleEnvase.dll
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.pdb
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.genruntimeconfig.cache
+H:\PROJETOS\ArBrain - Projetos Csharp\ControleEnvase\ControleEnvase\obj\Debug\net8.0-windows\ref\ControleEnvase.dll
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\bin\Debug\net8.0-windows\ControleEnvase.exe
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\bin\Debug\net8.0-windows\ControleEnvase.deps.json
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\bin\Debug\net8.0-windows\ControleEnvase.runtimeconfig.json
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\bin\Debug\net8.0-windows\ControleEnvase.dll
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\bin\Debug\net8.0-windows\ControleEnvase.pdb
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.Frm_ControleEnvase.resources
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.csproj.GenerateResource.cache
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.GeneratedMSBuildEditorConfig.editorconfig
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.AssemblyInfoInputs.cache
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.AssemblyInfo.cs
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.csproj.CoreCompileInputs.cache
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.dll
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Debug\net8.0-windows\refint\ControleEnvase.dll
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.pdb
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.genruntimeconfig.cache
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Debug\net8.0-windows\ref\ControleEnvase.dll
+H:\Engenharia de Software\Matérias\C#\Controle de Envase\ControleEnvase\obj\Debug\net8.0-windows\ControleEnvase.Properties.Resources.resources

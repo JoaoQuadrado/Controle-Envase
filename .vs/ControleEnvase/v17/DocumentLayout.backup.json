@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\PROJETOS\\Controle de Envase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32170A67-0475-437B-BDCE-045F248BA02D}|ControleEnvase\\ControleEnvase.csproj|H:\\PROJETOS\\Controle de Envase\\controleenvase\\frm_controleenvase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32170A67-0475-437B-BDCE-045F248BA02D}|ControleEnvase\\ControleEnvase.csproj|solutionrelative:controleenvase\\frm_controleenvase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32170A67-0475-437B-BDCE-045F248BA02D}|ControleEnvase\\ControleEnvase.csproj|h:\\projetos\\controle de envase\\controleenvase\\frm_controleenvase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32170A67-0475-437B-BDCE-045F248BA02D}|ControleEnvase\\ControleEnvase.csproj|solutionrelative:controleenvase\\frm_controleenvase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_ControleEnvase.cs [Projeto]",
+              "DocumentMoniker": "H:\\PROJETOS\\Controle de Envase\\ControleEnvase\\Frm_ControleEnvase.cs",
+              "RelativeDocumentMoniker": "ControleEnvase\\Frm_ControleEnvase.cs",
+              "ToolTip": "H:\\PROJETOS\\Controle de Envase\\ControleEnvase\\Frm_ControleEnvase.cs [Projeto]",
+              "RelativeToolTip": "ControleEnvase\\Frm_ControleEnvase.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T23:32:43.706Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_ControleEnvase.cs",
+              "DocumentMoniker": "H:\\PROJETOS\\Controle de Envase\\ControleEnvase\\Frm_ControleEnvase.cs",
+              "RelativeDocumentMoniker": "ControleEnvase\\Frm_ControleEnvase.cs",
+              "ToolTip": "H:\\PROJETOS\\Controle de Envase\\ControleEnvase\\Frm_ControleEnvase.cs",
+              "RelativeToolTip": "ControleEnvase\\Frm_ControleEnvase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:26:35.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
