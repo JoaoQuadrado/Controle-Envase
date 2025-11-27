@@ -190,6 +190,11 @@
             perdaAdicional = Cls_Uteis.Conversor(Txt_PerdaAdicional);
             AtualizarVolumes();
         }
+
+        private void Frm_ControleEnvase_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

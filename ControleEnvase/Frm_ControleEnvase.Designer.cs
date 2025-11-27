@@ -672,7 +672,7 @@
             groupBox3.Controls.Add(Lbl_VolumePurga);
             groupBox3.Location = new Point(24, 155);
             groupBox3.Name = "groupBox3";
-            groupBox3.Size = new Size(189, 376);
+            groupBox3.Size = new Size(189, 368);
             groupBox3.TabIndex = 175;
             groupBox3.TabStop = false;
             // 
@@ -748,10 +748,10 @@
             // 
             Txt_VolumeAntesTD2.BackColor = Color.White;
             Txt_VolumeAntesTD2.Font = new Font("Montserrat", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            Txt_VolumeAntesTD2.Location = new Point(988, 612);
+            Txt_VolumeAntesTD2.Location = new Point(990, 612);
             Txt_VolumeAntesTD2.Name = "Txt_VolumeAntesTD2";
             Txt_VolumeAntesTD2.RightToLeft = RightToLeft.No;
-            Txt_VolumeAntesTD2.Size = new Size(109, 26);
+            Txt_VolumeAntesTD2.Size = new Size(107, 26);
             Txt_VolumeAntesTD2.TabIndex = 161;
             Txt_VolumeAntesTD2.TextAlign = HorizontalAlignment.Center;
             Txt_VolumeAntesTD2.UseWaitCursor = true;
@@ -826,10 +826,12 @@
             Font = new Font("Montserrat", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             ForeColor = SystemColors.Window;
             FormBorderStyle = FormBorderStyle.FixedSingle;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Frm_ControleEnvase";
             RightToLeft = RightToLeft.No;
             RightToLeftLayout = true;
             StartPosition = FormStartPosition.CenterScreen;
+            Load += Frm_ControleEnvase_Load;
             ((System.ComponentModel.ISupportInitialize)Pb_BarrilTO).EndInit();
             ((System.ComponentModel.ISupportInitialize)Pbox_SetaT1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
