@@ -44,7 +44,7 @@
 
         private void AtualizarVolumes()
         {
-            volumeFinal = (volumeIniciado + volumeAdicional + volumeLeveduraReutilizada + leveduraColetada) - (volumeTransferido + volumePurga + volumeEnvasado + perdaAdicional);
+            volumeFinal = (volumeIniciado + volumeAdicional + volumeLeveduraReutilizada) - (volumeTransferido + volumePurga + volumeEnvasado + perdaAdicional + leveduraColetada);
             Lbl_VolumeFinal.Text = volumeFinal.ToString();
 
 
@@ -192,6 +192,11 @@
         }
 
         private void Frm_ControleEnvase_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Lbl_VolumeFinal_Click(object sender, EventArgs e)
         {
 
         }

@@ -140,12 +140,13 @@
             // 
             Lbl_VolumeFinal.BackColor = Color.Chocolate;
             Lbl_VolumeFinal.Font = new Font("Montserrat", 17.2499981F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            Lbl_VolumeFinal.Location = new Point(552, 309);
+            Lbl_VolumeFinal.Location = new Point(538, 316);
             Lbl_VolumeFinal.Name = "Lbl_VolumeFinal";
-            Lbl_VolumeFinal.Size = new Size(84, 28);
+            Lbl_VolumeFinal.Size = new Size(106, 28);
             Lbl_VolumeFinal.TabIndex = 31;
-            Lbl_VolumeFinal.Text = "____";
+            Lbl_VolumeFinal.Text = "_____";
             Lbl_VolumeFinal.TextAlign = ContentAlignment.MiddleCenter;
+            Lbl_VolumeFinal.Click += Lbl_VolumeFinal_Click;
             // 
             // Txt_VolumeEnvasado
             // 
